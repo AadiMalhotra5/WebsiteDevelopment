@@ -1,0 +1,39 @@
+body{
+    margin:0%;
+}
+.red{
+    background:red;
+    height:33%;
+   
+}
+.blue{
+    background:blue;
+    height:33%;
+    display:block;
+    margin:5% 0px 5% 0px;
+}
+.green{
+    background:green;
+    height:33%;
+    display:block;
+}
+.red:hover{
+    background:black;
+    height:33%;
+   
+}
+.blue:hover{
+    background:red;
+    height:33%;
+    display:block;
+    margin:5% 0px 5% 0px;
+    .red{
+        background:blue;
+    }
+}
+.green:hover{
+    background:blue;
+    height:33%;
+    display:block;
+}
+ 

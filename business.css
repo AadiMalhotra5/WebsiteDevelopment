@@ -1,0 +1,33 @@
+
+.card{
+    background:lightblue;
+    margin:10px;
+    display:flex;
+    flex-wrap: wrap;
+    width: 600px;
+    padding:20px;
+}
+.main-img{
+    width:150px;
+}
+
+.border{
+    border:1px dotted blue;
+}
+.main-cards{
+    display:flex;
+    flex-wrap:wrap;
+    margin:10px;
+}
+.card:hover{
+    background:blue;
+   
+    display:flex;
+    flex-wrap: wrap;
+
+    width:600px;
+}
+.text{
+    text-align:center;
+    margin:0 auto 0 auto;
+}
